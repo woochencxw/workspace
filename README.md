@@ -1,3 +1,3 @@
 # workspace
-cxw add 
+cxw delete
 cxw add again
